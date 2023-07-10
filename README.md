@@ -41,8 +41,11 @@ This is a simple implementation of the Pig Game using JavaScript. The Pig Game, 
 8. To start a new game at any time, click the "New Game" button. All scores will be reset, and a new round will begin.
 
 ## Screenshot
+<p>
+    <img src="https://github.com/hazemzakariasaad/Pig_Game/blob/main/pigGame.png " alt="pigGame.png" width=500 height="500">
+</p>
 ## You can also visit the website from the link below
-(https://yourdomain.com/pig-game)
+(https://hazemzakariasaad.github.io/Pig_Game/)
 
 
 ## Credits
