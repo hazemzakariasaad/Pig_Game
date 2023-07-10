@@ -44,7 +44,9 @@ This is a simple implementation of the Pig Game using JavaScript. The Pig Game, 
 <p>
     <img src="https://github.com/hazemzakariasaad/Pig_Game/blob/main/pigGame.png " alt="pigGame.png" width=500 height="500">
 </p>
-## You can also visit the website from the link below
+
+## You can also visit the website from the link belown 
+
 (https://hazemzakariasaad.github.io/Pig_Game/)
 
 
